@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "angular-firebase-dc4d3",
+    "prod": "angular-firebase-dc4d3"
+  },
+  "targets": {}
+}
